@@ -1,4 +1,4 @@
-# Relation_extraction
+# Relation_Extraction
 
 # data preprocessing
 python preprocess/data_pre.py
